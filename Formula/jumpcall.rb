@@ -1,8 +1,8 @@
 class Jumpcall < Formula
   desc "Jump to your live video call from the macOS menu bar or a hotkey"
   homepage "https://github.com/joncode/jumpcall"
-  url "https://github.com/joncode/jumpcall/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "99cc9f91d14c37a2b2723c770a0ea87c07e7782e0e1b8d9661fe99669fccd689"
+  url "https://github.com/joncode/jumpcall/archive/refs/tags/v0.4.1.tar.gz"
+  sha256 "9271b7347c1ea38bfd0cc774b6bb81a24804e78cd9660ecd8f6c37a1a25b1844"
   license "MIT"
   head "https://github.com/joncode/jumpcall.git", branch: "main"
 
